@@ -1,0 +1,38 @@
+.different-colors {
+    color: orange;
+}
+
+.horizontal {
+    color: orange;
+    font-style: italic;
+}
+
+.default {
+    font-style: italic;
+    color: red;
+}
+
+.inline-elements {
+    color: red;
+}
+
+.super-important {
+    color: orange;
+    font-style: italic;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.font-red {
+    color: red;
+}
+
+.image {
+    size: 40px;
+}
+
+#table {
+    
+}
